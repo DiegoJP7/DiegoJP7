@@ -13,10 +13,7 @@
 ### 🚀 Sobre Mí
 
 - 💻 Desarrollando con ecosistemas modernos como **Next.js, Supabase, Python y PostgreSQL**.
-- 🛠️ Liderando proyectos desde la concepción, como aplicaciones de carpooling (**Aquisito**) y sistemas IoT de seguridad domiciliaria (**SENTRY**).
 - ⚙️ Administrando y optimizando infraestructuras de servidores, redes MikroTik y migraciones corporativas.
-- 📍 **Base de operaciones:** Loja / Yantzaza, Ecuador.
-- 🎮 **Aficiones:** En mis ratos libres suelo recorrer rutas en mi moto dual-sport o disfrutar de buenas narrativas en *Red Dead Redemption 2*, *Ghost of Tsushima*, y algunas partidas de *League of Legends* o *Marvel Rivals*.
 
 <br>
 
